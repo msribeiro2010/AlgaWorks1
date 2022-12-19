@@ -37,7 +37,7 @@ public class Aplicacao {
 		 i++; 
 		}
 		 escrevaNoArquivo("/Users/marceloribeiro/Desktop/CURSOS_ONLINE/ALGAWORKS/ARQUIVO.TXT", linhas); 
-
+      
 	}
 
 	static void escrevaNoArquivo(String arquivo, ArrayList<String> linhas) throws IOException {
